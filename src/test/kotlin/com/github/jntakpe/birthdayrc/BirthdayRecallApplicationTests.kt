@@ -1,4 +1,4 @@
-package com.github.jntakpe.birthday
+package com.github.jntakpe.birthdayrc
 
 import org.junit.Test
 import org.junit.runner.RunWith
